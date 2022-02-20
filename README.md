@@ -1,10 +1,16 @@
-## Hi there I am Jesús Mares @MaresCDMX Full-stack web developer 💻, specialized in Python and NodeJS / React, Redux, perfectly comfortable with HTML / CSS / JavaScript ! 👋
+<h2> 👋 Hi there, I am Jesús Mares. Full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, specialized in Python and NodeJS / React, Redux & perfectly comfortable with HTML / CSS / JavaScript ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
+<p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Autonomous National University of Mexico (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
 
-<audio controls>
-	<source src="https://drive.google.com/file/d/1K51OuJ8T2KERIsNiz8KIaefkPd4ZuOOB/preview" type="audio/mpeg">
-	<source src="/assets_tutorials/media/Loreena_Mckennitt_Snow_56bit.ogg" type="audio/ogg">
-	Your browser does not support the audio tag.
-</audio>
+[![Linkedin: jesusmares82](https://img.shields.io/badge/-jesusmares82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmares82/)](https://www.linkedin.com/in/jesusmares82/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+```javascript
+const marescdmx = {
+  pronouns: "he" | "his",
+  code: [Javascript, React, HTML, CSS, Node, Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components]  
+}
+```
 
 <div>
   <audio src="https://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg"
