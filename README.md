@@ -1,7 +1,8 @@
-<h2> <img height="105em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg"> 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸 𝚊𝚖 𝙹𝚎𝚜ú𝚜 𝙼𝚊𝚛𝚎𝚜. 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎𝙹𝚂 / 𝚁𝚎𝚊𝚌𝚝, 𝚁𝚎𝚍𝚞𝚡 & 𝚙𝚎𝚛𝚏𝚎𝚌𝚝𝚕𝚢 𝚌𝚘𝚖𝚏𝚘𝚛𝚝𝚊𝚋𝚕𝚎 𝚠𝚒𝚝𝚑 𝙷𝚃𝙼𝙻 / 𝙲𝚂𝚂 / 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
-<p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Autonomous National University of Mexico (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
+<h2> <img height="105em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸 𝚊𝚖 𝙹𝚎𝚜ú𝚜 𝙼𝚊𝚛𝚎𝚜. 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎𝙹𝚂 / 𝚁𝚎𝚊𝚌𝚝, 𝚁𝚎𝚍𝚞𝚡 & 𝚙𝚎𝚛𝚏𝚎𝚌𝚝𝚕𝚢 𝚌𝚘𝚖𝚏𝚘𝚛𝚝𝚊𝚋𝚕𝚎 𝚠𝚒𝚝𝚑 𝙷𝚃𝙼𝙻 / 𝙲𝚂𝚂 / 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
+<p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
 
 [![Linkedin: jesusmares82](https://img.shields.io/badge/-jesusmares82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmares82/)](https://www.linkedin.com/in/jesusmares82/)
+  <img src="https://komarev.com/ghpvc/?username=MaresCDMX" alt="https://github.com/MaresCDMX" />
 [![GitHub MaresCDMX](https://img.shields.io/github/followers/MaresCDMX?label=follow&style=social)](https://github.com/MaresCDMX)
 
 ```javascript
@@ -18,8 +19,8 @@ const marescdmx = {
   </audio>
 </div>
 
-- 👀 I’m interested in web development, frontend, backend.
-- 🌱 I’m currently learning python in data science with pandas, streamlite.
+- 👀 I’m interested in web development, frontend & backend.
+- 🌱 I’m currently learning python in data science with pandas, streamlite, flask, etc.
 - 💞️ I’m looking to collaborate on a great place to work.
 - 🙋 How to reach me?
 - 📫 Email: <a href="mailto:jesusmares82@gmail.com ">jesusmares82@gmail.com </a> 
@@ -48,6 +49,15 @@ const marescdmx = {
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   
 </div>
+  
+ ## 💻 Workspace Spec
+  
+ <img src="https://img.shields.io/badge/Apple-MacBook_Air_M1_2021-999999?style=for-the-badge&logo=apple&logoColor=white">
+  
+ ## ⚒️ Made with
+  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-%2300C7B7?style=flat-square&logo=pycharm&logoColor=pycharm)
 
 
 
