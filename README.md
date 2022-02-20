@@ -1,4 +1,4 @@
-<h2> 👋 Hi there, I am Jesús Mares. Full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, specialized in Python and NodeJS / React, Redux & perfectly comfortable with HTML / CSS / JavaScript ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
+<h2> <img height="70em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg"> 👋 Hi there, I am Jesús Mares. Full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, specialized in Python and NodeJS / React, Redux & perfectly comfortable with HTML / CSS / JavaScript ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
 <p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Autonomous National University of Mexico (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
 
 [![Linkedin: jesusmares82](https://img.shields.io/badge/-jesusmares82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmares82/)](https://www.linkedin.com/in/jesusmares82/)
@@ -49,9 +49,6 @@ const marescdmx = {
   
 </div>
 
-<div>
-  <img height="70em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg">
-</div>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
