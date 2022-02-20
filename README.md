@@ -22,8 +22,8 @@ const marescdmx = {
 - 🌱 I’m currently learning python in data science with pandas, streamlite.
 - 💞️ I’m looking to collaborate on a great place to work.
 - 🙋 How to reach me?
-- 📫 Email: jesusmares82@gmail.com 
-- ☎️  whatsapp: +52 55 4805 6471, 
+- 📫 Email: <a href="mailto:jesusmares82@gmail.com ">jesusmares82@gmail.com </a> 
+- ☎️  whatsapp: <a href="https://wa.me/525548056471">52 55 4804 6471</a>, 
 - 📃 portfolio: https://marescdmx.github.io/Portfolio-Jesus-Mares.github.io/
 
 <div>
