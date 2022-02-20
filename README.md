@@ -2,7 +2,7 @@
 <p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Autonomous National University of Mexico (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
 
 [![Linkedin: jesusmares82](https://img.shields.io/badge/-jesusmares82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmares82/)](https://www.linkedin.com/in/jesusmares82/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub MaresCDMX](https://img.shields.io/github/followers/MaresCDMX?label=follow&style=social)](https://github.com/MaresCDMX)
 
 ```javascript
 const marescdmx = {
